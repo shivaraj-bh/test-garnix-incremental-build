@@ -6,6 +6,7 @@ import Main.Utf8 qualified as Utf8
  Main entry point.
 
  `just run` will invoke this function.
+
 -}
 main :: IO ()
 main = do
